@@ -1,0 +1,1 @@
+# separated-sequence-of-words
